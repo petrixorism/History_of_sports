@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">History of sports</string>
+    <string name="Baseball">History of sports</string>
+    <string name="Bike">History of sports</string>
+    <string name="Gym">History of sports</string>
+    <string name="Hockey">History of sports</string>
+    <string name="Ice_skating">History of sports</string>
+    <string name="Run">History of sports</string>
+    <string name="Soccer">History of sports</string>
+    <string name="Tennis">History of sports</string>
+    <string name="Volleyball">History of sports</string>
+    <string name="Yoga">History of sports</string>
+
+</resources>
