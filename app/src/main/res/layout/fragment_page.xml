@@ -6,11 +6,11 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="24dp"
-        android:layout_height="24dp"
+        android:id="@+id/back_btn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
         android:layout_margin="24dp"
-        android:background="@drawable/ic_baseline_arrow_back_ios_24"
+        android:background="@drawable/ic_back"
         android:foreground="@drawable/circle_ripple"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

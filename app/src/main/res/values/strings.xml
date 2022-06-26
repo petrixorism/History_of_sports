@@ -1,14 +1,108 @@
 <resources>
     <string name="app_name">History of sports</string>
-    <string name="Baseball">History of sports</string>
-    <string name="Bike">History of sports</string>
-    <string name="Gym">History of sports</string>
-    <string name="Hockey">History of sports</string>
-    <string name="Ice_skating">History of sports</string>
-    <string name="Run">History of sports</string>
-    <string name="Soccer">History of sports</string>
-    <string name="Tennis">History of sports</string>
-    <string name="Volleyball">History of sports</string>
-    <string name="Yoga">History of sports</string>
+    <string name="Baseball">\tUnlike professional basketball and American football, interest in baseball has not been sweeping the globe . Declining participation at the amateur level and protracted labor problems at the professional level have thrust “America’s Pastime” into an era of uncertainty. Despite this current adversity, baseball will always occupy an important place in American culture. This column starts a three part look at the history of baseball.
+
+Most cultures have some sort of stick and ball game, cricket being the most well-known. While the exact origins of baseball are unknown, most historians agree that it is based on the English game of rounders. It began to become quote popular in this country in the early 19th century, and many sources report the growing popularity of a game called “townball”, “base”, or “baseball”.
+
+Throughout the early part of that century, small towns formed teams, and baseball clubs were formed in larger cities. In 1845, Alexander Cartwright wanted to formalize a list of rules by which all team could play. Much of that original code is still in place today. Although popular legend says that the game was invented by Abner Doubleday, baseball’s true father was Cartwright.
+
+The first recorded baseball contest took place a year later, in 1846. Cartwright’s Knickerbockers lost to the New York Baseball Club in a game at the Elysian Fields, in Hoboken, New Jersey. These amateur games became more frequent and more popular. In 1857, a convention of amateur teams was called to discuss rules and other issues. Twenty five teams from the northeast sent delegates. The following year, they formed the National Association of Base Ball Players, the first organized baseball league. In its first year of operation, the league supported itself by occasionally charging fans for admission. The future looked very bright.
+
+The early 1860s, however were a time of great turmoil in the United States. In those years of the Civil War, the number of baseball clubs dropped dramatically. But interest in baseball was carried to other parts of the country by Union soldiers, and when the war ended there were more people playing baseball than ever before. The league’s annual convention in 1868 drew delegates from over 100 clubs.
+
+As the league grew, so did the expenses of playing. Charging admission to games started to become more common, and teams often had to seek out donations or sponsors to make trips. In order for teams to get the financial support they needed, winning became very important. Although the league was supposed to be comprised of amateurs, many players were secretly paid. Some were given jobs by sponsors, and some were secretly paid a salary just for playing.
+
+In 1869, the Cincinnati Red Stockings decided to become a completely professional team. Brothers Harry and George Wright recruited the best players from around the country, and beat all comers. The Cincinnati team won sixty-five games and lost none. The idea of paid players quickly caught on.
+
+Some wanted baseball to remain an amateur endeavor, but there was no way they could compete with the professional teams. The amateur teams began to fade away as the best players became professionals. In 1871, the National Association became the first professional baseball league.
+    </string>
+
+    <string name="Bike"> \tBicycles are a wonder of modern technology, persisting to this day despite there being many other more efficient means of transport. While being fun and easy to use are its main appeal, the bicycle also sports a long history of innovation and evolution that brought it to where it is today.
+
+One thing that makes bicycles so special is that they represent not only the evolution of technology, but also the evolution of human skill. While much technology is created to make life simpler and easier, few inventions have managed to achieve that while simultaneously requiring it\'s users to exercise their bodies and sharpen their senses of balance and coordination.
+
+To truly appreciate this wonderful invention, let\'s take a look back at how bicycles came to be. We\'ll be covering the very first bicycle designs in history found so far all the way up to the modern era to give the most complete summary possible. Let\'s get started. In modern times, the bicycle has remained largely unchanged in general appearance. The most striking difference between bikes now and what came before is the increased integration of different forms of technology to bicycles. This applies both to the bikes themselves as well as how they are manufactured and designed, with new technology making way for the most streamlined and efficient bicycles ever seen.
+
+This has opened to the door for new classes of bicycles with specialized construction and features. While some of the newer bicycle technologies (such as disc brakes) are being used in almost all modern bicycles, the function and appearance of street bikes (built as thin and light as possible, with thin tires) and mountain bikes (with bigger, fatter tires and more robust framing) continue to diverge.
+
+Hybrid bicycles (those that combine elements from street bikes and mountain bikes) have become popular, integrating comfort with increased abilities and featuring as many as 14 gears to switch between. Recumbent bicycles are also popular in certain circles, with their laid back design being popular for relaxation and fun, though a racing league composed of this and other "banned" bicycle types from major competitions do exist. </string>
+    <string name="Gym">\tThe evolution of fitness can be credited to man\'s need for survival and can be traced back to the beginning of mankind where people would remain physically fit in order to hunt and survive.
+
+The first gymnasiums in history were dated over 3000 years ago, in ancient Persia, where they were known as Zurkhaneh, as areas that encouraged physical fitness.
+
+
+But gyms formally came into existence in ancient Greece. The word "gymnasium" is derived from the Greek word "gymnos", which means naked. Gyms were usually a locality for the education of young men, which included physical education and bathing and studying. The ancient Greek gymnasiums were places where athletes trained for public games such as the Olympics.
+
+
+After this, gyms disappeared for centuries. By the 19th century, schools and colleges started building gymnasiums. The YMCA also built a number of gyms for physical exercise, social sports and games.
+
+
+In the 1930s, boxing gyms came into existence, with the founding of Cus D\'Amanto\'s Gramercy Gym in Manhattan in 1939. These gyms aimed to train fighters and boxers and were not places for general exercise.
+
+
+Between the 1960s and 1970s, gymnasium chains came into existence. In 1965, the Gold\'s gym chain was founded by Joe Gold in Venice, California and it became a landmark for bodybuilders. By the 1980s, gyms were common and many gyms chains were founded, such as 24 Hour Fitness (1983) and LA Fitness (1984). It was in this era that corporate gyms came into existence as the employers were keen on getting their employees fit and healthy.
+
+
+The gymnasium industry sprung up post the 1990s, where fitness was associated with gyms and people made it their priority. More gyms were founded, including Lifetime Fitness in 1990, Equinox Fitness in 1991, and Virgin Active in 1999.
+
+
+National fitness campaigns were started in China prior to the 2008 Summer Olympics with the introduction of outdoor gyms. These gyms blended the ideas of jogging paths and obstacle courses, in addition to open areas where people could do a variety of exercises. Such gyms were widely accepted and over 37 million square feet of outdoor gymnasiums were built across China from 1998 to 2008. Participation levels in physical activity steadily increased since the outdoor gym concept was introduced.
+The number of people joining gyms has increased over the years, proving a boon to the gym industry. We have the best of equipment, which only gets better, and gyms seems to get more popular with each decade.</string>
+    <string name="Hockey">\tThe roots of hockey are buried deep in antiquity. Historical records show that a crude form of the game was played in Egypt 4,000 years ago and in Ethiopia around 1,000BC, whilst an ancient form of the game was also played in Iran in around 2,000BC.
+Various museums offer evidence that a form of the game was played by the Romans and Greeks as well as by the Aztecs several centuries before Columbus arrived in the New World.
+The modern game of hockey emerged in England in the mid-18th century and is largely attributed to the growth of public schools, such as Eton.
+The first Hockey Association was formed in the UK in 1876 and drew up the first formal set of rules. The original association survived for just six years but, in 1886, it was revived by nine founding member clubs. The inaugural Olympic Hockey Competition for men was held in London in 1908 with England, Ireland, Scotland and Wales competing separately. With the addition of Germany and France, the competition ran with six teams.
+After having made its first appearance at the London Games, hockey was subsequently dropped from the 1912 Stockholm Games after host nations were granted control over "optional sports". It reappeared in 1920 in Antwerp after pressure from Belgian hockey advocates before being omitted again in Paris in 1924.
+The formation of the International Hockey Federation in 1924 was not soon enough for the Paris Olympics but it did grant hockey re-entry in Amsterdam in 1928. Hockey has been on the programme ever since, with women\'s hockey included for the first time in Moscow in 1980.</string>
+    <string name="Ice_skating">\tSkating on the frozen ponds and fens was popular in England in the 17th century, and the first skating club was formed in Edinburgh, Scotland, in 1742. In the 1740s British servicemen introduced ice skating to North America. It was also popular at the French court about 1776; Marie-Antoinette was among the skaters. Napoleon Bonaparte skated at Auxerre in 1781.
+The development of refrigerated ice rinks started the transformation of ice skating from a seasonal pastime to a major sport and entertainment. The first rink with artificially frozen ice, a private one, the Glaciarium, was opened in London in 1876. The first artificially frozen rink in the United States was installed in the old Madison Square Garden in New York City in 1879. Throughout the century more and more public rinks with artificially produced ice appeared. The ability to create sheets of ice inside large arenas gave rise to both skating sports and ice shows, which became a popular family entertainment in the 20th century. It also allowed for ice skating to spread to regions with warm climates.</string>
+    <string name="Run">\tThe history of running – as an activity – would be quite interesting to discuss. Unless we define it a bit further, talking about the history of running would be the same as talking about the history of breathing or eating. However, if we’re talking about the history of running as a recreational activity, there’s much more structure to the matter.
+
+Running, as a sport, supposedly originated in ancient Greece, around 2,700 years ago. The first-ever recorded recreational run was actually a sprint from one side of the Olympic Games arena to the other. That said, let’s see how this sport evolved further throughout history.
+
+As mentioned earlier, it’s almost impossible to track through history the very beginnings of this sport. However, way back in the 16th century there appear to be mentions of jogging. Jogging was commonly practiced by swordsmen as a form of pre-battle training. This is also the first time we actually see running used as an integral part of a regular training routine. Nowadays, modern runners have moved far away from their ancestors. While running still makes a huge part of workout routines, modern runners get to enjoy far more perks. The gear used for running has evolved significantly since its early days. So, now, you can even find excellent winter running jackets, which is certainly not something aforementioned soldiers and swordsmen were able to enjoy.
+
+Moving more towards the present, running and jogging became integral parts of so many athlete’s workout routines. The numerous benefits running brings were becoming increasingly recognized. What’s more, running became a discipline on its own in the modern Olympics back in 1896. Additionally, in 1897 the Boston Marathon was born. That led to a huge boost in popularity we can still see to this day. What’s also interesting to note is the fact that running used to be a male-only sport, which is not so surprising considering the fact that women entered the sports scene in its entirety a bit later. Nowadays, running and jogging are not just considered sports. To some, they present a form of mental therapy. To others, they are a great socializing tool.
+
+Here, the first year worth mentioning is 1909. This was the year that marked the beginning of the so-called marathon mania. In America, the first five ever marathons to be held in New York were all held on days of great significance. This is presumed to stem from the fact that games – and particularly the Olympic Games – were held in honor of the gods. Throughout history, you can come across various similar events in many other nations. Then we move onto the running boom of the 70s where nearly twenty-five million people became hobby runners. In 1984, women were finally able to enter the running scene.
+
+As we all know, running is still a very popular sport. With 715 marathons scheduled in the US alone, it becomes quite clear that the popularity of this sport is far from diminishing. Moreover, you may have also noticed that the modern market is anything but lacking in innovative solutions and gadgets designed for runners specifically.  What this means is that running is no longer treated solely as a sport. Instead, it practically became a well-developed industry.
+Even though running as we know it today is quite different from what it was in the early days, it is still one of the favorite recreational activities. And by tracking its evolution and growth throughout history, it’s safe to assume that it will stay popular for many years to come.</string>
+    <string name="Soccer">\tIt is the greatest and most popular sport in the world. It is an industry worth billions and is watched on every continent on the globe. From toddlers kicking a ball whilst the try figure out their co-ordination through to adults who make a living from it, it is a sport that can be played by virtually anyone. Yet what is the history of the beautiful game? When did it begin? How has it developed over the years? What does the future hold for football?
+
+We’ll try to answer those questions as best we can in this section of the site. This won’t be a comprehensive article, if for no other reason than you won’t have time to read it all and the content would be enough to fit several books. Thankfully we’ve already written several more in-depth articles on a lot of the key bits of information, so where possible we’ll refer you to them if you want to read more about any given topic. Without further ado, then, here’s our piece on the history of football.</string>
+    <string name="Tennis">\tWhen it was initially devised in 12th century northern France, the sport that is today known as tennis did not look very similar to its modern variant that is still played today. It did not use the racket, but instead, a ball was hit with the open palms of the hand. After being adopted by the royalties and nobles of France, England, and several other European territories, the “royal tennis” (known in France as “ jeu de paume” - the game of palms) transformed into a sport that much more resembled modern tennis when simple rackets were adopted in the 16th century.
+
+As the tennis became more and more popular and when newly discovered lawnmowers (patented in 1830) enabled tennis courts to move to open grass fields, professional clubs and large courts appeared across Europe and the rest of the world. The most notable courts became the foundation of the “Four Majors” tournament -Wimbledon (1877), U.S. Open (1881), French Open (1891) and Australian Open (1905). Professional tennis players established well-known annual competition known “Davis Cup” in 1900, and more recently, the Fed Cup in 1963. Between its inception and mid-20th century, tennis maintained an image that it was one of the preferred sports of upper/middle-class players, although that image started wavering when commercial pressures opened major tennis tournaments to both professional and amateur players. Some historians believe that the origins of the Tennis could be found much earlier in time than is today accepted.
+
+Clues found in the ruins of Egyptian, Greek and Roman civilizations (including written reports in Arabic) point that a game similar to tennis was played on stone floors and dirt fields. Another theory says that the word tennis was derived from the Egyptian town of Tinnis. However, lack of concrete evidence has pushed the majority of historians to accept that one true predecessor of modern tennis was created in 12th century Italy.</string>
+    <string name="Volleyball">\tIn 2016, the sport of Volleyball is over 120 years old!
+
+The sport originated in the United States, and is now just achieving the type of popularity in the U.S. that it has received on a global basis, where it ranks behind only soccer among participation sports.
+
+Today there are more than 46 million Americans who play volleyball. There are 800 million players worldwide who play volleyball at least once a week.
+
+In 1895, William G. Morgan, an instructor at the Young Men’s Christian Association (YMCA) in Holyoke, Mass., decided to blend elements of basketball, baseball, tennis, and handball to create a game for his classes of businessmen which would demand less physical contact than basketball. He created the game of Volleyball (at that time called, Mintonette). Morgan borrowed the net from tennis, and raised it 6 feet 6 inches above the floor, just above the average man’s head.
+
+During a demonstration game, someone remarked to Morgan that the players seemed to be volleying the ball back and forth over the net, and perhaps “volleyball” would be a more descriptive name for the sport. On July 7, 1896 at Springfield College the first game of “volleyball” was played.</string>
+    <string name="Yoga">\tYoga Sports are athletic competitions demonstrated by the beauty of demanding yoga postures and through the dedication, endurance and unyielding determination of the competitors.
+
+Yoga is a holistic health system with Indian roots stretching back 5,000 years. IYSF seeks to generate awareness of Yoga among all nations as it relates to culture, education, and knowledge on a sporting basis.
+
+The sport of Yoga Asana aims to further human excellence as it promotes health and well being on both the individual and universal levels.
+
+Yoga competition is part of India’s rich history. But Yoga Competions is not Asanas Competion. It is said that the yoga asana (posture) practice originated over 5,000 years ago. Yoga Competitions have been taking place for 2,000 years now, albeit in a more philosophical and spiritual formwith anothers yoga angas. Today, it is estimated that the yoga competition in its current form began about 200 years ago. At least one yoga competition takes place daily in India and South America.
+
+The Yoga Sport Science is a discipline that studies the application of scientific principles and techniques with the aim of improving the six Yoga Sports Disciplines: Athletic Yoga Sport, Artistic Yoga Sport, Yoga Asanas Sport, Rhythmic Yoga Sport, Acro Yoga Sport and Yoga Dance Sport performance. At Yoga Championships and Yoga competitions.
+
+Yoga (/ˈjoʊɡə/; Sanskrit: योग; About this soundpronunciation) is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India. Yoga is one of the six orthodox schools of Hindu philosophical traditions. There is a broad variety of yoga schools, practices, and goals in Hinduism, Buddhism, and Jainism. The term “yoga” in the Western world often denotes a modern form of Hatha yoga, yoga as exercise, consisting largely of the postures called asanas.
+
+The origins of yoga have been speculated to date back to pre-Vedic Indian traditions; it is mentioned in the Rigveda, but most likely developed around the sixth and fifth centuries BCE, in ancient India’s ascetic and śramaṇa movements. The chronology of earliest texts describing yoga-practices is unclear, varyingly credited to Upanishads. The Yoga Sutras of Patanjali date from the first half of the 1st millennium CE, and gained prominence in the West in the 20th century. Hatha yoga texts emerged sometimes between the 9th and 11th century with origins in tantra.
+
+Yoga gurus from India later introduced yoga to the West, following the success of Swami Vivekananda in the late 19th and early 20th century with his adaptation of yoga tradition, excluding asanas. Outside India, it has developed into a posture-based physical fitness, stress-relief and relaxation technique. Yoga in Indian traditions, however, is more than physical exercise; it has a meditative and spiritual core. One of the six major orthodox schools of Hinduism is also called Yoga, which has its own epistemology and metaphysics, and is closely related to Hindu Samkhya philosophy.
+
+The impact of postural yoga on physical and mental health has been a topic of systematic studies, with evidence that regular yoga practice yields benefits for low back pain and stress. In 2017, a Cochrane review found low‐ to moderate‐certainty evidence that yoga improved back function compared to non-exercise. On December 1, 2016, yoga was listed by UNESCO as an intangible cultural heritage.
+
+The term yoga has been defined in various ways in the many different Indian philosophical and religious traditions.</string>
 
 </resources>

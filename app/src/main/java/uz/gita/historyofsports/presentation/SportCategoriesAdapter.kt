@@ -24,8 +24,8 @@ class SportCategoriesAdapter : ListAdapter<Sport, SportCategoriesAdapter.ViewHol
             getItem(absoluteAdapterPosition).apply {
                 binding.titleTv.text = this.title
                 binding.categoryIv.setImageResource(this.image)
-                val counter = this.info.toString().split(" ").size / 120
-                binding.timeToReadTv.text = counter.toString()
+                val counter = binding.root.context.getString(this.info).split(" ").size / 120
+                binding.timeToReadTv.text = "$counter min to read"
             }
         }
 
